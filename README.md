@@ -22,6 +22,8 @@
 **Kết quả phân tích**
 
 - Kết quả đánh giá các mô hình con
+  
   ![alt text](image.png)
 - Kết quả đánh giá mô hình chính
+  
   ![alt text](image-1.png)
